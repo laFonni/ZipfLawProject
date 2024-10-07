@@ -1,0 +1,15 @@
+
+Words covering 10% of the text:
+the (6.92%), of (3.68%)
+
+Words covering 20% of the text:
+and (3.42%), in (2.65%), to (2.39%), a (1.89%)
+
+Words covering 30% of the text:
+that (0.97%), is (0.90%), as (0.87%), by (0.83%), for (0.72%), with (0.67%), was (0.65%), on (0.63%), are (0.60%), from (0.59%), s (0.58%), be (0.41%), which (0.41%), it (0.40%)
+
+Words covering 40% of the text:
+have (0.38%), or (0.37%), at (0.36%), an (0.36%), mandela (0.35%), dna (0.35%), this (0.33%), were (0.31%), he (0.30%), his (0.27%), has (0.26%), their (0.26%), democracy (0.26%), can (0.25%), its (0.24%), more (0.24%), also (0.24%), not (0.24%), years (0.23%), these (0.23%), been (0.23%), other (0.23%), had (0.23%), ai (0.22%), such (0.22%), may (0.21%), they (0.21%), but (0.21%), human (0.21%), than (0.20%), between (0.20%), system (0.19%), canyon (0.19%), war (0.18%), some (0.18%), most (0.17%), climate (0.17%), into (0.16%), about (0.16%), all (0.15%), used (0.14%)
+
+Words covering 50% of the text:
+species (0.14%), two (0.14%), africa (0.14%), many (0.14%), humans (0.14%), million (0.14%), one (0.13%), south (0.13%), there (0.13%), first (0.13%), people (0.13%), solar (0.13%), germany (0.13%), sun (0.13%), united (0.13%), political (0.12%), world (0.12%), would (0.12%), only (0.12%), government (0.12%), soviet (0.12%), change (0.12%), grand (0.12%), after (0.12%), early (0.11%), although (0.11%), use (0.11%), when (0.11%), modern (0.11%), during (0.11%), called (0.11%), both (0.11%), while (0.11%), time (0.11%), through (0.10%), ago (0.10%), over (0.10%), states (0.10%), anc (0.10%), known (0.10%), h (0.10%), new (0.10%), against (0.10%), japan (0.10%), including (0.09%), national (0.09%), will (0.09%), who (0.09%), around (0.09%), global (0.09%), forces (0.09%), german (0.09%), homo (0.09%), intelligence (0.09%), form (0.09%), countries (0.09%), if (0.08%), power (0.08%), found (0.08%), where (0.08%), warming (0.08%), within (0.08%), earth (0.08%), out (0.08%), japanese (0.08%), them (0.08%), union (0.08%), however (0.08%), several (0.08%), under (0.08%), emissions (0.08%), later (0.08%), large (0.07%), african (0.07%), being (0.07%), evidence (0.07%), river (0.07%), because (0.07%), state (0.07%), planets (0.07%), could (0.07%), learning (0.07%), us (0.07%), western (0.07%), much (0.07%), made (0.07%), democratic (0.07%), increased (0.07%), each (0.07%), data (0.07%), rights (0.07%), life (0.07%), president (0.07%), energy (0.07%), allies (0.07%), no (0.06%), genetic (0.06%), since (0.06%), became (0.06%), end (0.06%), him (0.06%), au (0.06%), objects (0.06%), then (0.06%), water (0.06%), artificial (0.06%), began (0.06%), different (0.06%), major (0.06%)

@@ -1,0 +1,61 @@
+in: are, to, it, ai, s, at, on, been, with, is, and, by, other, war, some, this, such, from, which, an, used, mandela, human, years, into, he, most, that, democracy, the, his, these, but, more, or, were, their, also, about, all, has, can, had, for, was, its, system, be, may, they, climate, as, than, a, of, dna, not, canyon
+and: are, to, on, with, is, by, other, from, which, an, mandela, democracy, the, his, more, all, for, be, may, they, as, in, a, of, dna, not, it, ai, s, at, war, some, this, used, human, years, into, he, between, most, have, that, these, or, were, their, also, about, has, can, had, was, its, system, climate, canyon
+to: are, it, ai, s, at, on, been, with, is, and, by, other, war, this, some, such, from, which, an, used, mandela, human, years, he, between, most, have, that, democracy, the, his, these, more, or, were, their, also, about, all, has, had, for, was, its, system, be, may, climate, as, than, in, a, of, dna, not, canyon
+the: are, to, on, been, with, is, by, other, from, which, mandela, democracy, but, more, all, for, be, may, as, in, a, of, dna, not, it, ai, s, at, and, war, this, used, human, years, into, between, most, have, that, these, or, were, also, about, has, had, was, system, climate, than, canyon
+that: are, he, between, to, have, democracy, it, ai, s, the, his, at, these, but, more, or, were, their, all, has, with, can, had, for, is, and, was, its, by, system, war, this, some, such, may, they, from, which, climate, as, an, than, in, a, used, mandela, of, dna, human, years
+as: are, he, to, that, democracy, it, ai, s, the, his, at, on, these, but, more, or, were, their, has, with, had, for, is, and, its, by, system, other, war, be, this, some, such, may, they, from, which, an, than, in, a, used, mandela, of, dna, human, not, canyon, years
+a: are, to, it, ai, s, at, on, been, with, is, and, by, war, this, such, from, which, used, mandela, human, years, into, between, have, that, democracy, the, but, more, or, were, also, about, has, had, for, was, system, be, may, climate, as, than, in, of, dna, not, canyon
+of: to, on, with, is, by, other, from, which, an, mandela, democracy, the, his, more, all, for, be, may, as, in, a, dna, not, it, ai, at, and, war, some, this, such, human, years, between, most, that, these, were, their, also, about, its, system, climate, than
+by: he, to, most, that, it, ai, s, the, his, at, on, these, but, more, or, their, about, all, with, and, was, its, system, other, war, be, some, this, may, from, which, climate, as, an, in, a, used, mandela, of, dna, human, not, canyon, years
+dna: an, by, than, in, are, these, a, but, between, more, to, most, of, or, other, have, were, some, this, their, that, such, they, from, also, human, has, with, can, which, s, the, had, for, is, at, into, and, as, on, was, its
+for: are, he, to, most, that, democracy, it, ai, s, the, his, at, these, more, or, their, also, about, all, has, and, was, its, war, some, this, which, climate, as, an, than, in, a, used, mandela, of, dna, human, not, canyon, years
+it: by, he, to, this, some, that, democracy, may, from, ai, s, which, the, his, at, on, as, an, than, in, a, but, used, mandela, of, or, also, about, human, not, has, with, years, can, had, for, is, into, and, was
+on: to, most, democracy, it, ai, s, the, his, these, more, or, their, also, all, had, is, and, its, by, system, other, war, be, this, some, may, from, which, climate, as, an, than, in, a, mandela, of, dna, human, canyon, years
+at: by, are, system, he, to, war, this, that, democracy, may, it, which, s, the, climate, his, as, an, than, in, a, mandela, more, of, dna, been, also, about, not, all, has, canyon, with, years, for, is, and, was, its
+with: to, most, that, democracy, it, ai, s, the, his, at, these, more, or, their, all, and, its, by, system, other, war, some, this, such, which, climate, as, an, than, in, a, used, mandela, of, dna, human, canyon, years
+from: are, to, most, that, democracy, it, ai, the, on, these, but, more, were, their, about, all, is, and, was, its, by, system, other, be, this, may, which, climate, as, an, than, in, a, mandela, of, dna, human, years
+is: are, he, to, most, that, democracy, it, ai, the, at, on, but, more, or, their, also, about, and, system, this, some, such, they, from, which, climate, as, an, in, a, used, of, dna, human, not, canyon
+ai: an, by, in, are, these, a, but, system, used, to, most, of, or, other, have, this, their, that, such, may, from, also, about, has, with, it, can, s, the, had, for, is, and, on, as, was
+this: by, system, he, to, war, have, that, democracy, may, from, it, ai, s, the, at, on, as, in, a, but, used, mandela, more, of, dna, also, about, has, with, years, can, for, is, into, and, was
+which: by, are, system, he, to, other, have, some, that, democracy, may, they, from, it, the, his, at, on, as, in, a, but, mandela, of, were, dna, also, all, has, with, can, had, for, is, and, was
+or: by, to, most, other, have, be, some, that, democracy, may, they, it, ai, s, the, climate, his, on, as, an, in, a, more, were, their, dna, human, not, all, with, can, for, is, and, its
+but: an, by, are, in, these, a, system, he, mandela, more, were, some, this, their, that, dna, democracy, may, they, from, also, not, years, it, can, ai, s, which, the, had, his, is, as, was, its
+s: he, between, to, most, that, democracy, it, ai, the, at, on, but, or, were, with, had, for, and, its, by, system, war, some, this, they, climate, as, in, a, mandela, dna, human, not, canyon
+also: are, in, a, used, but, system, he, mandela, more, to, of, have, be, were, this, democracy, dna, been, may, they, has, it, can, ai, which, the, had, for, climate, is, at, and, on, was
+more: by, than, are, in, a, used, but, to, of, or, have, be, were, this, some, that, dna, been, from, also, about, has, with, years, can, the, had, for, is, at, and, on, as, was
+mandela: by, between, to, most, have, this, that, democracy, may, from, it, s, which, the, at, on, as, an, in, a, but, used, of, were, also, has, with, years, had, for, into, and, was
+democracy: in, are, these, a, but, mandela, to, most, of, or, other, have, this, that, such, may, from, also, has, with, can, it, s, which, the, for, is, at, and, on, as, was
+are: between, to, most, that, democracy, ai, the, at, these, but, more, also, about, all, for, is, and, system, other, some, they, from, which, climate, as, in, a, used, dna, not, canyon
+an: by, system, to, have, be, that, such, may, from, it, ai, at, on, as, than, in, but, mandela, of, or, dna, been, not, has, with, had, for, is, into, and, was
+have: system, to, most, this, some, that, democracy, may, they, ai, which, the, climate, an, these, a, used, mandela, more, or, their, dna, been, also, about, not, all, canyon, can, had, and
+system: an, by, in, are, a, but, he, to, of, have, this, that, such, they, from, also, has, with, can, ai, which, s, the, climate, is, at, and, on, as, was, its
+was: he, to, that, democracy, it, ai, the, his, at, but, more, also, about, for, and, by, system, war, this, from, which, climate, an, in, a, used, mandela, dna, not, canyon
+may: an, by, in, these, a, but, he, mandela, to, of, or, have, be, this, that, democracy, they, from, also, not, all, it, ai, which, the, at, and, on, as
+had: an, in, a, but, he, mandela, more, to, war, have, some, their, that, dna, been, they, also, not, has, canyon, it, ai, which, s, the, and, on, as, its
+not: an, by, are, in, a, but, to, of, or, have, be, were, been, may, all, has, it, can, s, the, had, for, is, at, and, as, was
+were: to, most, war, some, that, they, from, s, which, the, as, in, these, a, used, but, mandela, more, of, or, dna, also, about, not, all, canyon, and
+years: by, than, in, a, from, but, between, mandela, about, more, human, to, with, of, it, the, for, be, climate, some, this, his, at, and, on, as, that
+some: by, in, are, but, between, more, to, of, or, have, were, that, dna, human, all, with, years, it, s, which, had, for, is, and, as, on
+used: by, been, are, in, a, they, he, also, mandela, more, to, with, it, ai, the, for, have, be, were, this, his, is, and, as, that, was
+has: an, in, a, system, he, mandela, more, to, this, that, democracy, dna, been, also, not, canyon, it, ai, which, the, had, for, at, and, as, its
+these: by, in, are, but, between, to, of, other, have, were, that, democracy, dna, such, may, from, all, canyon, with, can, ai, the, for, and, on, as
+all: by, than, in, are, these, to, of, or, other, have, were, be, some, their, that, may, from, not, with, which, the, for, at, and, on, its
+its: by, system, between, to, most, that, from, s, climate, at, on, as, than, in, but, of, or, dna, about, all, has, with, had, for, and
+about: by, than, are, in, a, more, to, of, other, have, be, were, this, from, years, it, ai, the, for, climate, its, is, at, and, was
+climate: by, in, are, a, from, system, also, between, about, to, with, years, of, or, s, the, have, for, its, is, at, and, on, that, was
+other: by, than, are, in, these, to, most, of, or, war, dna, democracy, from, about, human, all, with, ai, which, the, his, and, on, as
+most: by, in, are, mandela, to, of, or, other, war, have, were, their, dna, democracy, from, with, ai, s, the, for, is, and, on, its
+their: by, between, to, most, have, that, from, ai, on, as, than, in, but, of, or, dna, all, with, had, for, is, into, and
+human: by, in, a, to, of, or, other, some, that, dna, such, from, with, years, it, s, the, for, is, into, and, on, as
+than: an, in, a, more, to, of, other, their, that, dna, they, from, about, all, with, years, it, the, for, at, on, as, its
+canyon: by, in, are, these, a, they, between, has, to, with, can, s, the, had, have, for, were, is, at, and, on, as, was
+be: by, to, may, they, from, the, on, as, an, in, a, used, more, of, or, also, about, not, all, years, can, and
+they: than, are, in, but, used, system, or, have, be, were, that, dna, may, also, canyon, can, which, s, had, is, and, as
+he: by, system, to, this, that, may, it, which, s, his, at, as, in, used, but, also, has, had, for, is, and, was
+his: by, he, between, to, other, that, it, which, at, on, as, in, but, used, of, or, been, with, years, for, and, was
+war: by, in, a, between, to, most, of, other, were, this, that, with, s, the, had, for, at, and, on, as, was
+can: in, these, but, system, more, or, have, be, this, that, democracy, dna, they, also, not, canyon, it, ai, which, and
+between: are, these, a, mandela, to, of, war, some, their, that, dna, canyon, years, s, the, climate, his, and, its
+such: an, in, these, a, system, to, of, that, dna, democracy, human, with, ai, is, as
+been: an, in, a, used, more, to, have, also, not, has, the, had, his, at
+into: an, in, a, mandela, this, their, dna, human, it, the, and
