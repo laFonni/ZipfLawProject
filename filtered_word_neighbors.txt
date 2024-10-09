@@ -1,22 +1,17 @@
-il: della, he, in, dei, al, una, le, i, di, per, non, un, la, delle, ome, a, nel, da, del, on, e
-e: della, he, al, una, per, non, delle, a, da, del, on, il, in, dei, le, i, di, un, la, ome, nel
-del: della, i, di, per, non, un, la, delle, ome, a, il, he, nel, in, dei, da, al, una, on, le, e
-a: della, i, di, per, non, un, la, delle, ome, il, he, nel, in, dei, da, al, una, del, on, le, e
-non: della, i, dei, di, da, per, un, al, una, del, on, la, delle, ome, a, il, le, he, nel, e, in
-he: il, in, dei, al, una, le, i, di, per, non, un, la, delle, ome, a, nel, da, del, on, e
-ome: della, i, di, per, non, un, la, a, il, he, nel, in, dei, da, al, una, del, on, le, e
-al: della, i, dei, di, da, per, non, un, una, del, on, la, ome, a, il, le, he, nel, e, in
-on: i, di, per, non, un, la, delle, ome, a, il, he, nel, in, dei, da, al, una, del, le, e
-in: della, il, he, dei, al, una, le, i, di, per, non, un, la, ome, a, nel, da, del, on, e
-nel: della, i, di, per, non, un, la, ome, a, il, he, in, dei, da, al, una, del, on, le, e
-i: il, he, in, dei, al, una, le, di, per, non, un, la, ome, a, nel, da, del, on, e
-per: i, di, non, un, la, ome, a, il, he, nel, in, dei, da, al, una, del, on, le, e
-di: he, al, una, per, non, a, del, on, e, il, in, dei, le, i, un, la, ome, nel
-la: il, he, in, al, una, i, di, per, non, delle, ome, a, nel, da, del, on, e
-da: i, per, non, un, la, ome, a, il, he, nel, in, al, una, del, on, le, e
-le: della, i, di, per, non, delle, ome, a, il, he, nel, in, da, al, del, on, e
-una: i, di, per, non, la, delle, ome, a, il, he, nel, in, da, al, del, on, e
-un: della, i, di, per, non, ome, a, il, he, nel, in, da, al, del, on, e
-dei: i, di, per, non, al, del, on, ome, a, il, he, nel, e, in
-della: non, un, ome, a, il, nel, in, al, del, le, e
-delle: non, una, del, on, la, a, il, le, he, e
+e: si, un, di, he, nel, per, i, da, a, le, della, in, una, il, la, del
+del: in, una, di, per, da, il, a, he, e, si, la, le, un, nel, della
+he: per, i, da, a, si, le, un, in, una, di, il, e, la, del, nel
+il: per, i, da, a, si, le, della, in, una, di, he, e, la, del, nel
+nel: in, una, di, per, i, da, il, a, he, e, si, la, le, del, un
+per: una, di, i, da, il, a, he, e, si, la, le, del, un, nel
+a: per, i, da, un, in, una, di, il, he, e, la, del, nel
+di: un, he, nel, per, i, a, le, una, il, e, la, del
+i: in, di, per, il, a, he, e, si, la, un, nel
+la: per, i, a, si, di, il, he, e, del, nel
+una: in, di, per, da, il, a, he, e, del, nel
+da: una, per, il, a, he, e, le, del, un, nel
+un: in, di, per, i, da, a, he, e, del, nel
+in: i, a, un, una, il, he, e, del, nel
+si: per, i, il, he, e, la, del, nel
+le: di, per, da, il, he, e, del, nel
+della: il, e, del

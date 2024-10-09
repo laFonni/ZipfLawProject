@@ -1,0 +1,123 @@
+Lo stoiismo è una orrente filosofia e spirituale di impronta razionale panteista determinista e dogmatia on un forte orientamento etio e tendenzialmente ottimista fondata intorno al aC ad Atene da Zenone di Cizio La morale stoia risente di quella dei inii mentre la fisia si muove su una onezione del osmo simile a quella di Eralito Insieme allepiureismo e allo settiismo lo stoiismo rappresentò una delle maggiori suole filosofihe delletà ellenistia
+Tale filosofia prende il suo nome dalla Stoà Peìle di Atene o «portio dipinto» in greo antio στοὰ ποικίλη Stoà poikílē dove Zenone impartiva le sue lezioni Gli stoii sostenevano le virtù dellautoontrollo e del distao dalle ose terrene portate allestremo nellideale dellatarassia ome mezzi per raggiungere lintegrità morale e intellettuale Nellideale stoio è il dominio sulle passioni o apatìa he permette allo spirito il raggiungimento della saggezza Riusire è un ompito individuale e saturise dalla apaità del saggio di disfarsi delle idee e dei ondizionamenti he la soietà in ui vive gli ha impresso Lo stoio tuttavia non disprezza la ompagnia degli altri uomini e laiuto ai più bisognosi è una pratia raomandata Per la loro onezione fatalistia delluniverso he prevedeva la realizzazione di un piano universale razionale perfetto insito nellordine della natura il termine stoio nel linguaggio popolare india anora oggi una persona he sopporta oraggiosamente le sofferenze e i disagi
+Lo stoiismo fu abbraiato da numerosi filosofi e uomini di stato sia grei sia romani fondendosi presso questi ultimi on le tradizionali virtù romane di dignità e omportamento Il disprezzo per le rihezze e la gloria mondana la resero una filosofia adottata sia da imperatori ome Maro Aurelio autore dei Colloqui on sé stesso he da shiavi ome il liberto Epitteto
+Cleante Crisippo Senea Catone Utiense Maro Giunio Bruto Anneo Cornuto Plinio il Vehio Quinto Giunio Rustio e Persio furono importanti personalità della suola stoia alla quale si ispirò anhe Cierone
+Origini e fasi
+Lo stoiismo nase ad Atene dove Zenone di Cizio impartiva le sue lezioni nella zona del portio affresato dellagorà la Stoà Peile da ui questa orrente di pensiero prende il nome Le lezioni si tenevano sotto questi portii dipinti poihé Zenone non essendo ateniese ma un feniio di Cipro non aveva la possibilità di possedere una propria abitazione
+La fase originaria di questa suola di pensiero è detta stoiismo antio
+Più tardi a partire dallintroduzione di questa dottrina a Roma da parte di Panezio di Rodi ha inizio il periodo dello stoiismo medio Si differenzia dal preedente per il suo arattere elettio in quanto influenzato sia dal platonismo he dallaristotelismo e dallepiureismo
+Infine abbiamo il osiddetto stoiismo nuovo o romano he abbandona la tendenza elettia erando di tornare alle origini
+Il seguente shema mostra lo sviluppo ronologio delle varie fasi dello stoiismo e i personaggi più rappresentativi di ognuna di esse
+Dopo la fine delletà antia vi sono stati tentativi di riproporre lo stoiismo ome filosofia di vita e pensiero
+il neostoiismo fu una orrente filosofia del tardo Rinasimento tra il XVI e del XVII seolo la ui finalità era di unifiare lo stoiismo on la fede ristiana
+lo stoiismo moderno è una orrente ontemporanea nata negli Stati Uniti nella seonda parte del XX seolo he riprende e aggiorna i prinipi della suola stoia antia on un orientamento razionalista alla lue della psioterapia della sienza moderna e del mondo attuale
+Dottrina stoia
+Gli stoii dividevano la filosofia in tre disipline la logia he si oupa del proedimento del onosere la fisia he si oupa delloggetto del onosere letia he si oupa della ondotta onforme alla natura razionale delloggetto Lintera dottrina veniva paragonata ad un frutteto la logia è il reinto he delimita il terreno la fisia è rappresentata dagli alberi mentre letia è il frutto
+Logia
+La logia per gli stoii a differenza di quanto avveniva nel pensiero greo preedente non è solo uno strumento al servizio della metafisia ma si pone ome disiplina autonoma rispetto agli altri ampi di indagine essa omprendeva oltre alla gnoseologia e alla dialettia anhe la retoria Per logia infatti gli stoii intendevano non solo le regole formali del pensiero he si onformano orrettamente al Lògos ma anhe quei ostrutti del linguaggio on ui i pensieri vengono espressi Non a aso Lògos può signifiare sia ragione he disorso oggetto della logia quindi sono proprio i lògoi ossia i ragionamenti espressi in forma di proposizioni lektà
+In maniera simile alla gnoseologia aristotelia per gli stoii il riterio supremo della verità è levidenza he onsente di rionosere la validità dei prinìpiguida della logia Levidenza si basa in partiolare sullassenso synkatáthesis he la mente dà alla rappresentazione di un dato fenomeno A differenza quindi della dottrina epiurea la onosenza non si fonda sulla semplie sensazione àistesis né sullimpressione he questa provoa nellanima phantasía entrambe infatti per via della loro instabilità non potrebbero dare alle proposizioni il arattere di sienza he invee è neessario per poter distinguere orrettamente il vero dal falso
+Nel proesso onositivo onorrono dunque due elementi
+uno attivo heghemonikòn he onsiste nelle antiipazioni mentali ioè previsioni basate su onosenze già aquisite ma in grado di avere un ruolo di guida
+e uno passivo hypàrhon he è appunto il semplie dato sensibile
+Mentre tuttavia per Zenone di Cizio levidenzaassenso riguardava uniamente la osienza interiore di sé stessi o autoosienza oikeiosis soltanto nella quale può aversi onformità alla legge universale del Lògos on Cleante essa diventa omprensiva kataleptikè anhe dei piani ontologii della realtà esterna perhé il Lògos he muove il pensiero razionale delluomo è in fondo lo stesso situato a fondamento delluniverso
+A partire dallevidenza atalettia he garantise osì la orrispondenza on la realtà si struttura quindi la dialettia stoia he omporta un ampliamento di indagine del sillogismo aristotelio he viene ora inteso in un senso non solo deduttivo ma anhe ipotetio Questo nuovo approio onsente di valutare un ragionamento in riferimento ad un evento reale sulla base di un insieme di proposizioni legate tra loro da operatori logii proposizioni omplesse
+Ad esempio se in un ragionamento una o più premesse lèmmata vengono legate ad una premessa addizionale si giunge a delle onlusioni epiphorá ome nella seguente frase «Se è giorno è lue ma è giorno dunque è lue» Questa può essere formalizzata in «Se p allora q ma p dunque q» ovvero
+p
+→
+q
+∧
+p
+→
+q
+\displaystyle p\rightarrow q\wedge p\rightarrow q
+Il seguente shema esemplifia le varie tipologie di proposizioni a seonda delloperatore logio utilizzato
+Mediante lo studio dei onnettori logii gli Stoii hanno dato vita a quella partiolare disiplina he oggi è altrimenti onosiuta ome logia proposizionale
+Il linguaggio in ui si esprime questa logia tuttavia non era per gli Stoii qualosa di onvenzionale ma doveva rispondere al più alto ompito delluomo he onsisteva nella ontemplazione della verità abbraiandola nella sua totalità Sopo finale della gnoseologia stoia era infatti quello di rappresentarsi il orretto artiolarsi del Lògos nel mondo di oglierne ioè la struttura razionale in vista dellagire virtuoso katòrthoma
+Come il sillogismo aristotelio anhe la logia stoia non fu esente dalla formulazione di paradossi ondizionali quali il paradosso del mentitore il paradosso del oodrillo il paradosso del sorite
+Fisia
+Sebbene tutto il sistema fosse subordinato alletia questa si fondava a sua volta su un prinipio he ha origine nella fisia
+La fisia stoia deriva dalla onezione eralitea del fuoo ome forza produttiva e ragione ordinatrie del mondo Da questo fuoo artigiano πύρ τεχνικόν si genera luniverso il quale in erti periodi determinati di tempo he sono ili osmii si distrugge per tornare a rinasere dal fuoo in una nuova palingenesi ristabilendosi ogni volta nel suo stato originario Per questo motivo si è soliti parlare di un eterno ritorno apoatastasi he si produe iliamente sotto forma di onflitto universale attraverso una onflagrazione o epirosi εκπύρωσις Ogni periodo he si produe dal fuoo e ulmina nella sua distruzione attraverso il fuoo stesso è definito diakosmesis διακόσμησις
+Tale ordinamento è retto da una ragione Λόγος universale Questa può essere intesa ome un movimento inausato eterno inarrestabile immanente he pervade qualunque forma di essere dal più semplie ed infimo fino al più grande e omplesso vivente e non vivente Dalla sua azione saturisono due prinipi in ui il mondo risulta suddiviso uno attivo hiamato in vari modi appunto logos o Zeus soffio natura ed uno passivo he è la materialità delle ose
+Già Aristotele aveva affermato he la materia non potrebbe sussistere senza una forma e quindi senza un Dio he in quanto atto puro è la ausa del suo strutturarsi in un erto modo Gli Stoii tuttavia eliminano ogni dualismo tra lessere in potenza e lessere in atto sostenendo he Dio non sarebbe perfetto se la materia fosse anora in qualhe modo indipendente da Lui Dio pertanto non solo produe le forme ma rappresenta anhe la materia stessa lelemento passivo he viene plasmato da quello attivo Ciò signifia he il Logos non è semplie orporeità ma è la radie di ogni orporeità lògos spermatikòs Dio è un Pensiero he nel pensare se stesso pensa e rea anhe luniverso in ununità insindibile di spirito e materia
+Questo spirito aeriforme o pneuma he è risaldato dal fuoo raffreddandosi dà quindi origine allaqua e infine allelemento solido terra sono i quattro elementi he ompongono luniverso Un altro termine utilizzato per indiare il soffio vitale he pone ordine nella materia inerte è «Anima del mondo» ripreso in partiolare dal Timeo di Platone in virtù di questo prinìpio tutto luniverso risulta onepito ome un unio grande organismo regolato da intime onnessioni sympàtheiai fra le sue parti Esso è un tutto omogeneo nel quale non i sono zone vuote ontro Epiuro gli stoii affermano la fluidità e penetrabilità dei orpi e di onseguenza la tesi per ui non tutto è materia osì in maniera simile a quanto sosterrà Plotino lessere non esaurise il «tutto» Lespressione omprensiva utilizzata dagli stoii per indiare sia gli enti he gli inorporei è ti il «qualosa» ontrapposto al niente
+La dottrina stoia degli inorporei si riflette nella onezione sul destino dellanima dopo la morte Crisippo riteneva solo le anime dei saggi sopravvivessero altri Zenone e i suoi disepoli diretti pensavano invee he tutte indistintamente ontinuassero a vivere fino al momento della onflagrazione osmia quando si fonderanno on lAnima del mondo per tornare a riostituirsi nuovamente ad ogni ilo ome tutto il resto
+Lordine presente allinterno del osmo è inoltre qualosa di neessario una neessità he non è da intendersi meaniamente alla maniera degli atomisti bensì in unottia finalistia Nulla infatti avviene per aso è il Fato o il Destino a guidare gli eventi E poihé tutto aade seondo ragione il Logos divino è anhe Provvidenza prònoia in quanto predispone la realtà in base a riteri di giustizia orientandola verso un fine prestabilito La fisia stoia aderise pertanto alla onvinzione giusnaturalista he esista un diritto di natura al quale è giusto onformarsi e di ui le diverse legislazioni dei singoli Stati sono solo imperfette imitazioni
+Etia
+Letia stoia si fonda sul prinipio he luomo è parteipe del lógos e portatore di una sintilla di fuoo eterno Lessere umano è lunia reatura fra tutti i viventi nella quale il Lògos si rispehia perfettamente egli è pertanto un miroosmo una totalità in ui tutto luniverso è riprodotto
+La virtù onsiste nel vivere in modo onforme ομολογία alla natura del mondo seondo il prinipio di onservazione oikeiosis Mentre gli animali tendono a preservare se stessi obbedendo agli impulsi gli uomini devono sempre saper segliere quel he onviene alla loro natura di esseri razionali Il prinipioguida della ondotta umana quindi non può essere quello della riera del piaere ome sostengono gli epiurei Eo il pensiero di Crisippo o uno dei suoi disepoli al riguardo
+La guida dellazione va invee rierata anora una volta nel prinipio attivo dellanima heghemonikòn al quale deve sottostare quello passivo pàthos Sono le passioni infatti he impedisono ladeguamento della ondotta umana alla razionalità Raggiungendo lo stato di dominio sulle passioni o apatia απάθεια iò he poteva apparire ome male e dolore si rivela un elemento positivo e neessario anhe la malattia e la morte quindi vanno aettate
+Si tratta di unetia del dovere riassunta da Epitteto nel elebre motto «ανέχoυ καί απέχoυ» «sopporta e astieniti» non tanto ome invito a sopportare il dolore e astenersi dai piaeri ma ad aogliere serenamente quel he riserva il destino evitando però di farsi oinvolgere emotivamente
+Questo è anhe il senso della famosa metafora stoia he paragona la relazione uomoUniverso a quella di un ane legato ad un arro Il ane ha due possibilità seguire armoniosamente la maria del arro o resisterle La strada da perorrere sarà la stessa in entrambi i asi ma se i si adegua allandatura del arro il tragitto sarà armonioso Se al ontrario si oppone resistenza la nostra andatura sarà tortuosa poihé saremo trasinati dal arro ontro la nostra volontà Lidea entrale di questa metafora è espressa in modo sintetio e preiso da Senea quando sostiene riprendendo Cleante «Duunt volentem fata nolentem trahunt» «Il destino guida hi lo aetta e trasina hi è riluttante»
+La saggezza
+La saggezza pratia phronesis a differenza di quella teoretia sophia per gli stoii onsiste nella apaità di raggiungere la feliità stato orrispondente al raggiungimento dellatarassia o imperturbabilità dellanimo onetto derivante in gran parte dalla suola inia
+Ad essa si approda guadagnando il dominio di se stessi dei propri pensieri e delle proprie passioni Seondo gli stoii la volontà del saggio aderise perfettamente al suo dovere kathèkon obbedendo a una forza he non agise esteriormente su di lui bensì dallinterno Egli vuole quel he deve e deve quel he il suo stesso lògos gli impone Lo stoiismo non è dunque una sorta di eserizio forzato di vita perhé tutto nellesistenza del saggio sorre paifiamente
+E poihé il Bene onsiste nel vivere seondo il Lògos il male è solo iò he in apparenza vi si oppone Ne risultano osì tre tipologie di azioni
+quelle dettate dalla ragione ome il rispetto per i genitori gli amii e la patria
+quelle ontrarie al dovere e quindi da evitare in quanto irrazionali ed emotive
+quelle «indifferenti» sia al bene he al male adiáphora ome ad esempio sollevare una pagliuzza o tenere una penna
+È in questultima ategoria he però rientrano di fatto anhe tutte quelle azioni in grado di determinare salute rihezza potere shiavitù ignominia e Queste qualità per gli stoii non hanno importanza perhé non esistono beni intermedi la feliità o linfeliità dipendono uniamente da noi non possono essere il risultato di una mediazione Da qui la netta ontrapposizione o si è sapienti o si è stolti tutto il resto è indifferente
+Nessuno di onseguenza è shiavo per natura lessere umano è assolutamente libero di approdare alla saggezza mentre shiavo è soltanto olui he si fa dominare dalle passioni
+Per ottenere questo risultato oorrerà saper identifiare iò he serve on la proairesi luso della ragione appliando la diairesi ovvero la selta he risulta migliore
+Avendo fiduia nel fatto he tutto sia regolato neessariamente dal Λόγος il saggio è tale in quanto abbandona il punto di vista relativo dellio individuale per assumere un punto di vista assoluto una visione della realtà sub speie aeternitatis Al punto ulminante del suo omplesso itinerario spirituale reso possibile anhe dalla riflessione filosofia egli approda osì ad ununione asetia on il tutto
+Logia fisia ed etia vanno pensati proprio ome una sala he ondue verso la ontemplazione finale E letia il ui frutto è la virtù rappresenta lultimo gradino si reupera in tal modo da Sorate la onezione intellettuale delletia per ui il Bene è uno solo e saturise dallunio vero sapere
+Attivismo politio
+Poihé lo spirito e la materia sono uniti indissolubilmente la saggezza dagli Stoii non è onepita ome unattività puramente intellettuale ma anhe propedeutia allagire Il onetto di apatia he a molti potrebbe apparire ome una sorta di stolta indifferenza e he oggi ha assunto un onnotato per lo più negativo è al ontrario il risultato della virtù he si attua in aderenza alle leggi del Lògos Solo ompiendo il proprio dovere infatti luomo può identifiarsi on esso diventando iò he egli da sempre è A differenza dei inii dunque fra i doveri prinipali degli uomini in quanto esseri razionali vi è soprattutto la politia
+Questa nuova forma di attivismo fu introdotta in partiolare quando aluni esponenti della mediastoà ome Panezio entrarono in ontatto on lambiente romano Fu osì he numerosi stoii dellantihità divennero attivi statisti dediti alleserizio del bene pubblio In loro si avverte soprattutto una dimensione osmopolita he saturise da quel sentimento di ompassione e parteipazione agli eventi del mondo proprio della sympàtheia ossia dellintima onnessione esistente tra la sfera delluomo e quella dellAnima osmia essi sono sudditi di una patria universale non è avvenimento he non li riguardi
+L«indifferenza stoia» del primo periodo venne periò modifiata in maniera maggiormente simile a quanto affermava Aristotele nella sua Etia Niomahea se i mali o i beni materiali sono indifferenti per il raggiungimento della virtù non per questo è da ignorare tutto iò he può dare un prezioso ontributo in tal senso esistono anhe beni he se di per sé non danno la feliità sono però preferibili proegména rispetto ad altri Questo mutamento di prospettiva avvenne quando Panezio si rese onto he lideale stoio della saggezza poteva apparire vuoto e astratto rishiando di mettere in risi lintera dottrina delletia Diogene Laerzio riferise in proposito
+Sarà invee on la nuova Stoà he verrà reuperata una onezione delletia nuovamente rigorosa sul modello di quella antia pur mantenendo delle notevoli tendenze al osmopolitismo e al filantropismo Cierone parla di humanitas sentimento di benevolenza e solidarietà disinteressata verso i suoi simili Epitteto onezione ripresa poi da Maro Aurelio affermerà di sentire tutti gli uomini ome suoi fratelli essendo ome lui figli dello stesso Lògos
+Note
+Bibliografia
+Raolte dei frammenti
+Hans Von Arnim a ura di Stoiorum Veterum Fragmenta abbreviato in SVF voll Lipsia
+Mariano Baldassarri a ura di La logia stoia Testimonianze e frammenti testi originali on introduzione e traduzione ommentata fas Como
+Diogene Laerzio Vite e dottrine dei più elebri filosofi testo greo a fronte a ura di Giovanni Reale on la ollaborazione di Giuseppe Girgenti e Ilaria Ramelli Bompiani Milano
+Epitteto Tutte le opere Testo greo a fronte a ura di G Reale e C Cassanmagnago Bompiani ISBN
+Filodemo Storia Dei Filosofi La Stoa Da Zenone a Panezio PHer edizione traduzione e ommento a ura di Tiziano Dorandi Leiden Brill ISBN
+Karlheinz Hülser a ura di Die Fragmente zur Dialektik der Stoiker Neue Sammlung der Texte mit deutsher Übersetzung und Kommentaren voll StuttgartBad Cannstatt
+Margherita Isnardi Parente a ura di Stoii antihi voll Utet Torino
+Maro Aurelio Colloqui on se stesso Testo greo a fronte a ura di N Gardini Medusa edizioni ISBN
+Roberto Radie a ura di Stoii antihi Tutti i frammenti seondo la raolta di Hans Von Arnim Rusoni Milano ISBN
+Ilaria Ramelli a ura di Stoii romani minori Testo greo e latino a fronte Bompiani ISBN
+Luio Anneo Senea Tutte le opere Dialoghi trattati lettere e opere in poesia a ura di G Reale Bompiani ISBN
+Studi
+Mihele Alessandrelli Il problema del lekton nello Stoiismo antio Origine e statuto di una nozione ontroversa Firenze Olshki
+Franesa Alesse La stoa e la tradizione soratia Bibliopolis
+Jean Brun Lo stoiismo trad a ura di L Salomoni Xenia
+JeanJoël Duhot Epitteto e la saggezza stoia trad a ura di P Brugnoli Borla edizioni
+Giuseppe Giliberti Cosmopolis Politia e diritto nella tradizione iniostoia ES@
+Pierre Hadot La ittadella interiore Introduzione ai Pensieri di Maro Aurelio Vita e Pensiero Milano
+Anna Maria Ioppolo Aristone di Chio e lo stoiismo antio Napoli Bibliopolis
+Margherita Isnardi Parente Introduzione allo stoiismo ellenistio Laterza
+Mario Mignui Il signifiato della logia stoia Pàtron Bologna
+Max Pohlenz La Stoa Storia di un movimento spirituale Bompiani
+Roberto Radie Oikeiosis Rierhe sul fondamento del pensiero stoio e sulla sua genesi Milano Vita e Pensiero ISBN
+Paolo Togni Conosenza e virtù nella dialettia stoia Bibliopolis Napoli ISBN
+Voi orrelate
+Filosofi stoii
+Stoii antihi
+Amor fati
+Apoatastasi
+Fatalismo
+Homologoumenos zen
+Neostoiismo
+Oikeiosis
+Suola megaria
+Stoà Peile
+Altri progetti
+Wikiquote ontiene itazioni sullo stoiismo
+Wikibooks ontiene testi o manuali sullo stoiismo
+Wikizionario ontiene il lemma di dizionario «stoiismo»
+Wikiversità ontiene risorse sullo stoiismo
+Wikimedia Commons ontiene immagini o altri file sullo stoiismo
+Collegamenti esterni
+httpsordiseuropaeuprojetid
+Stoiismo in Dizionario di filosofia Istituto dellEnilopedia Italiana
+Stoiìsmo su sapereit De Agostini
+EN Jason Lewis Saunders Stoiism su Enilopedia Britannia Enylopædia Britannia In
+EN Massimo Pigliui Stoiism su Internet Enylopedia of Philosophy
+ES Stoiismo su Philosophia
+EN Stoiismo in Catholi Enylopedia Robert Appleton Company
+Sheda sullo stoiismo su latinovivoom
+Senea e la Saggezza stoia su magnanelliit
+EN Marion Durand Simon Shogry Dirk Baltzly Stoiism in Edward N Zalta a ura di Stanford Enylopedia of Philosophy Center for the Study of Language and Information CSLI Università di Stanford
+EN Bibliografia annotata sulla semiotia e la logia stoia su historyoflogiom

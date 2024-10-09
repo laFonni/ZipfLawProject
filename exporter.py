@@ -1,3 +1,4 @@
+
 def load_zipf_results(file_path):
     """
     Loads the Zipf's law results from a file and returns a list of tuples (word, frequency).
@@ -196,8 +197,11 @@ def filter_word_neighbors(words_of_interest_file, word_neighbors_file, output_fi
                 fout.write(f"{word}:\n")
 
 
+def exportData(rangeOfWords):
+    
+    if not isinstance(rangeOfWords, int):
+        raise TypeError(f"The 'range' argument must be an integer, but got {type(range).__name__}")
 
-if __name__ == "__main__":
     # Load the Zipf's law results from the file
     zipf_file = "zipf_law_results.txt"
     zipf_data = load_zipf_results(zipf_file)
@@ -217,7 +221,7 @@ if __name__ == "__main__":
 
     # Save words within the coverage range
     range_output_file = "words_in_range.txt"
-    save_words_in_coverage_range(zipf_data, range_output_file, 0, 10)
+    save_words_in_coverage_range(zipf_data, range_output_file, 0, rangeOfWords)
     print(f"Words in coverage range saved to '{range_output_file}'")
 
     # Filter word neighbors based on the words of interest
@@ -227,3 +231,6 @@ if __name__ == "__main__":
 
     filter_word_neighbors(words_of_interest_file, word_neighbors_file, output_file)
     print(f"Filtered word neighbors saved to '{output_file}'")
+
+# def test():
+    #

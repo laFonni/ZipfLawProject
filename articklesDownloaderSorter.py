@@ -115,7 +115,7 @@ def clean_article_text(text):
     str: Cleaned text.
     """
     # Step 1: Remove unwanted characters (like `/` and `-`)
-    cleaned_text = re.sub(r'[\/\-,\.\(\)\'\"\<\>\:\;\?\!\d\“\„\–\%\°c\{\}\[\]\’\…\=\‘\”cs]', '', text)
+    cleaned_text = re.sub(r'[\/\-,\.\(\)\'\"\<\>\:\;\?\!\d\“\„\–\%\°c\{\}\[\]\’\…\=\‘\”\«\»]', '', text)
     
     # Step 2: Replace multiple consecutive newlines with a single newline
     cleaned_text = re.sub(r'\n+', '\n', cleaned_text)
@@ -321,7 +321,7 @@ def save_zipf_results(zipf_results, output_file):
 Counts each word
 Cretes neighbours for each word
 '''
-if __name__ == "__main__":
+def download_and_process_articles():   
     # List of 5 different articles you want to download
     article_titles = [
     "Artificial intelligence",
@@ -336,116 +336,14 @@ if __name__ == "__main__":
     "Impressionism",
     "Evolution",
     "Law of Supply and Demand",
-    "Stoicism",
-    "Socialization",
-    "Romanticism in Literature",
-    "Quantum Mechanics",
-    "Renaissance Art",
-    "Black Hole",
-    "Microbiology",
-    "Photosynthesis",
-    "Ancient Egypt",
-    "Feminism",
-    "Plate Tectonics",
-    "Machine Learning",
-    "Theory of Relativity",
-    "Neanderthals",
-    "Ocean Currents",
-    "Philosophy of Mind",
-    "Artificial Neural Networks",
-    "The Cold War",
-    "Cryptography",
-    "Genetic Engineering",
-    "Dark Matter",
-    "Classical Music",
-    "Roman Empire",
-    "Renewable Energy",
-    "History of Mathematics",
-    "Global Warming",
-    "Social Media",
-    "Blockchain",
-    "Indian Independence Movement",
-    "Game Theory",
-    "French Revolution",
-    "Anthropology",
-    "Internet Privacy",
-    "Existentialism",
-    "Thermodynamics",
-    "Civil Rights Movement",
-    "General Relativity",
-    "Cognitive Dissonance",
-    "History of Computing",
-    "Gothic Architecture",
-    "Epigenetics",
-    "Relativity",
-    "Middle Ages",
-    "Multiverse Theory",
-    "Genetic Mutation",
-    "Political Philosophy",
-    "The Industrial Revolution",
-    "Alchemy",
-    "Artificial General Intelligence",
-    "Cybersecurity",
-    "History of Physics",
-    "Pandemics",
-    "Botany",
-    "Viking Age",
-    "DNA Sequencing",
-    "Feminist Philosophy",
-    "History of Medicine",
-    "Classical Mythology",
-    "Cosmology",
-    "History of the United States",
-    "Electromagnetic Spectrum",
-    "Probability Theory",
-    "Urbanization",
-    "Information Theory",
-    "Robotics",
-    "Middle Eastern History",
-    "Surrealism",
-    "Buddhism",
-    "Invasive Species",
-    "Chemical Bonding",
-    "Ancient Rome",
-    "Agricultural Revolution",
-    "Evolutionary Psychology",
-    "Cybernetics",
-    "Space Exploration",
-    "String Theory",
-    "Solar Energy",
-    "Philosophy of Science",
-    "Comparative Religion",
-    "Environmental Ethics",
-    "The Renaissance",
-    "Greenhouse Effect",
-    "Artificial Satellites",
-    "The Great Depression",
-    "Epidemiology",
-    "Human Genome Project",
-    "Medieval Philosophy",
-    "Climate Policy",
-    "Quantum Computing",
-    "Renaissance Literature",
-    "Wildlife Conservation",
-    "The Scientific Method",
-    "The Ottoman Empire",
-    "Neolithic Revolution",
-    "Psychology of Personality",
-    "International Relations",
-    "Marxism",
-    "Theory of Computation",
-    "Nanotechnology",
-    "The Human Brain",
-    "History of Art",
-    "Molecular Biology",
-    "The Silk Road"
+    "Stoicism",     
 ]
 
 
     #Directory where articles will be saved
     article_directory = "./downloaded_articles"
 
-   # Source and target languages
+    # Source and target languages
     source_lang = "en"  # e.g., 'en' for English
     target_lang = input("Enter target language code (e.g., 'de' for German): ").strip()
 

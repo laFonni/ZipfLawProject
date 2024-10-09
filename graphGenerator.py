@@ -122,7 +122,7 @@ def visualize_word_graph(G, output_file='word_neighbors_graph.png'):
 
 
 
-if __name__ == "__main__":
+def generate_graphs():
     # Load neighbors from the file
     file_path = "filtered_word_neighbors.txt"  # Replace with the actual path to your file
     neighbors = load_neighbors_from_file(file_path)
